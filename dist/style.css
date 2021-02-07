@@ -1,0 +1,25 @@
+header {
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+
+.card-divider {
+  background-color: blue;
+  color: white;
+  display: block;
+}
+
+.card-section {
+  background-color: lightgray;
+}
+
+i {
+  margin-right: 10px;
+}
+
+li {
+  border: solid lightgray;
+  padding: 10px;
+  background-color: white;
+}

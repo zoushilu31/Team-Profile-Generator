@@ -1,9 +1,9 @@
 const Employee = require('../lib/Employee');
 
 test('creates an employee', () => {
-    const name = 'Shilu';
+    const name = 'Kyle';
     const id = '1';
-    const email = 'zoushilu@gmail.com';
+    const email = 'kyle@gmail.com';
     const employee = new Employee(name, id, email);
 
     expect(employee.name).toBe(name);
@@ -13,9 +13,9 @@ test('creates an employee', () => {
 });
 
 test('do the functions actually return their values', () => {
-    const name = 'shilu';
+    const name = 'Kyle';
     const id = '1';
-    const email = 'zoushilu@gmail.com';
+    const email = 'kyle@gmail.com';
     const employee = new Employee(name, id, email);
 
     expect(employee.getName()).toBe(name);

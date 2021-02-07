@@ -1,9 +1,9 @@
 const Manager = require('../lib/Manager');
 
 test('creates a manager', () => {
-    const name = 'Jane';
+    const name = 'John';
     const id = '2';
-    const email = 'jane@gmail.com';
+    const email = 'john@gmail.com';
     const officeNumber = '3';
     const manager = new Manager(name, id, email, officeNumber);
 
@@ -15,9 +15,9 @@ test('creates a manager', () => {
 });
 
 test('do the functions actually return their values', () => {
-    const name = 'Jane';
+    const name = 'John';
     const id = '2';
-    const email = 'jane@gmail.com';
+    const email = 'john@gmail.com';
     const officeNumber = '3';
     const manager = new Manager(name, id, email, officeNumber);
 
