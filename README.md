@@ -14,8 +14,9 @@ A team profile management app
 
 download zip file on my github
 
-## Usage 
 
+## Walkthrough Video
+Walkthrough video: https://drive.google.com/file/d/1xscETF-kGSYmKh4nB4Q0HTD3uNtkdQdv/view?usp=sharing
 
 ## Credits
 
